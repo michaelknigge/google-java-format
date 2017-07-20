@@ -5,6 +5,13 @@
 
 [Google Java Style]: https://google.github.io/styleguide/javaguide.html
 
+## Updates of this fork
+
+There are just two minimal changes. The maximum line length has been increased from 100 to 120
+and the indention has been increased from 2 to 4.
+
+***Note:***  *That the JUnit tests have not been updated so they will fail.*
+
 ## Using the formatter
 
 ### from the command-line
